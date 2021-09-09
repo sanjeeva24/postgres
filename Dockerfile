@@ -1,4 +1,4 @@
-FROM rhscl/postgresql-13-rhel7:latest
+FROM FROM registry.redhat.io/rhscl/postgresql-13-rhel7:latest
 
 # PostgreSQL image for OpenShift.
 # Volumes:
